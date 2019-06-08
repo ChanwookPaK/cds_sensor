@@ -13,5 +13,8 @@ It is ~~cancelled~~
 ### CodeBlock
 
 ```Cpp
-funcion hi(){
- system.out.println("hello World");
+void setup(){
+ pinmode(13,OUTPUT);
+ }
+ ```
+ 위 코드는 아두이노의 셋업 코드입니다. 13번 핀을 출력으로 
