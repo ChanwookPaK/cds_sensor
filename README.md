@@ -25,4 +25,8 @@ void setup(){
  ### Image
  
 ![](file:///C:/Users/%EA%B9%80%ED%83%9C%EC%98%81/Desktop/Arduino.png)
+
+이름 | 성격|번호|
+~~~|~~~|~~~|
+박찬욱|착함|1|
  
