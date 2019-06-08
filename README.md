@@ -17,4 +17,7 @@ void setup(){
  pinmode(13,OUTPUT);
  }
  ```
- 위 코드는 아두이노의 셋업 코드입니다. 13번 핀을 출력으로 
+ 위 코드는 아두이노의 셋업 코드입니다. 13번 핀을 출력으로 합니다
+ 
+ ### Link
+ [Naver](https://naver.com)
